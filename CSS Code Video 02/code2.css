@@ -1,0 +1,69 @@
+/* first style the h1 element by giving just color name */
+
+h1 {
+  color: red;
+}
+
+/* then change the different shades of red color by hovering on the color name */
+/* once we change the shade of color, it shows you RGB value of color instead of that color name */
+
+/* h1 {
+  color: rgb(255, 39, 39);
+} */
+
+/* change the value of RGB to 0 */
+
+/* h1 {
+  color: rgb(0, 0, 0);
+} */
+
+/* change the value of RGB to 255 */
+
+/* h1 {
+  color: rgb(255, 255, 255);
+} */
+
+/* if we change the value of red is "34" and give value "0" to green and blue color */
+
+/* h1 {
+  color: rgb(34, 0, 0);
+} */
+
+/* h1 {
+  color: rgb(120, 0, 0);
+} */
+
+/* h1 {
+  color: rgb(255, 0, 0);
+} */
+
+/* red value is 34, green value is 120 and blue value is 0 */
+
+/* h1 {
+  color: rgb(34, 120, 0);
+} */
+
+/* red value is 34, green value is 120 and blue value is 205 */
+
+/* h1 {
+  color: rgb(34, 120, 205);
+} */
+
+/* Give incorrect color values */
+/* if we cross the limit of RGB color values it does not work: */
+
+/* h1 {
+  color: rgb(256, 256, 256);
+} */
+
+/* if we give all RGB color values incorrect or out of limit then it does not works */
+
+/* h1 {
+  color: rgb(256, 300, 540);
+} */
+
+/* if we give even 1 correct value of RGB then it works */
+
+/* h1 {
+  color: rgb(256, 34, 323);
+} */

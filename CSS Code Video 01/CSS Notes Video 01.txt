@@ -1,16 +1,28 @@
-3 types of css:
+Types of CSS:
 
-inline css 
-internal css
-external css
+there are 3 types of css:   or
+there are 3 ways to connect css with html 
+
+inline css          use style attribute to write css in html
+internal css        use style tag to write css in html
+external css        use link tag to connect with html
 
 inline or internal css me html file k ander hi css likhte hn
+external css me ham doosri file m css likhte hn
 
 Inline CSS:
 
+write css under the html opening tag
 inline css means ksi bhi html element k opening tag k ander style attribute lagate hn or same line m css likhte hn
 
-we use style attribute in the opening tag of html element to write css in Inline css
+we use style attribute in the opening tag of html element to write css in html document
+
+the value of style attribute consists into 2 parts:
+
+css property
+css value
+
+these 2 things written under double quotes
 
 Syntax:
 
@@ -44,15 +56,20 @@ link tag is a self-closing tag, it does not have a closing tag
 
 Syntax:
 
-<link rel="stylesheet" href="filename" />
+<link />
 
-Short form to write link tag:
+there are 2 attributes used in link tag:
 
-link:css
+rel         defines what is the relation of external with html
+href        defines the address of the external file 
+
+Syntax:     <link rel="stylesheet" href="filename" />
+
+Short form to write link tag:       link:css
 
 Code 01:
 
-Inline CSS:
+
 
 
 

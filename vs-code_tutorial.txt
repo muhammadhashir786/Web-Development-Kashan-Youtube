@@ -1,0 +1,16 @@
+Explorer Tab:
+we can create files and folders from Explorer tab
+
+Search Tab:
+we can search any word or anything in all our code by search tab
+
+Source Control Tab:
+we can push our codes in github repo 
+
+Run & Debug Tab:
+we can run and debug the code
+
+Extensions Tab:
+we can install extensions from extension tab 
+
+sweet vs code icons extension

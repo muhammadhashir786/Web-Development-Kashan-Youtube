@@ -1,0 +1,54 @@
+
+Chapter: Colors
+
+there are 3 types of colors:
+
+Color Name
+Hex Code 
+RGB
+
+Color Name:
+
+there are 147 pre-defined color names that recognized browsers:
+
+if we wanto to get multiple shades of 1 color eg: red, then we can do this by Hex Code 
+
+if we want to style any element of html with the help of css, then first we need to select or call that html element in css file
+then write curly brackets "{}" then under the brackets we write css by give property and value 
+
+just hover the color name and select the different shades of that color by RGB Code
+
+what does RGB mean?
+
+r   =   red
+g   =   green
+b   =   blue
+
+and there are 3 parameters in this value like:   rgb(255, 39, 39)
+these 3 values are called parameters
+
+1st value is red color
+2nd valued is green color
+3rd value is blue color
+
+Mixture of Colors:
+
+rgb means red, green and blue are the mixtures of all colors that will create different colors 
+
+if we change the values of RGB parameter from rgb(255, 39, 39) to rgb(0, 0, 0) then it will become black color
+
+OR 
+
+if we change the values of RGB parameter from rgb(255, 39, 39) to rgb(255, 255, 255) then it will become white color
+
+Limit of RGB Color Value:
+
+the limit of RGB color value from 0 to 255 
+if we type 256 then there is no shades of color exist to show you
+
+we learn 2 things: 
+
+color name
+rgb value
+
+Hex Code
