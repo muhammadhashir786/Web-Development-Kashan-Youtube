@@ -1,0 +1,52 @@
+color:
+
+color name
+rgb         means red, green and blue
+hex
+
+color name contains the name of the color
+rgb contains 3 values of red, blue and green like rgb(23, 59, 120)
+hex contains #ff0011 this type of value
+
+there are 147 pre-defined colors that browsers understand 
+
+we change the different shades of color by rgb value and hex code
+we can not change the different shades of color by just typing name of that 
+
+color name just defines what the color is
+rgb value and hex code defines the multiple shades of that color
+
+limit of rgb value is: 0 to 255
+if we cross the limit like we type 256 or 310, then there is nothing color to show you in the browser
+
+to style any html element, first we need to select or call that element in css file
+there are many types of selectors in css to select the html element, we learn it later
+then type {}
+then give property and value to this element
+
+what is property and value?
+
+red
+rgb (0,0,0)
+
+there are 6 characters in hex code:
+
+#ffffff
+#000000      
+
+convert rgb value to hex code by just click on the value of rgb
+
+Selectors:
+
+1. koi bhi tag ko us k name se selec krna item selector kehlata hai
+
+
+background color:
+
+pH Scale:
+
+give bg color black to grey
+
+content of pH scale written in paragraph tag
+
+
