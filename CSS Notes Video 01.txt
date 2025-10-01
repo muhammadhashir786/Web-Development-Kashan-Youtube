@@ -1,0 +1,59 @@
+3 types of css:
+
+inline css 
+internal css
+external css
+
+inline or internal css me html file k ander hi css likhte hn
+
+Inline CSS:
+
+inline css means ksi bhi html element k opening tag k ander style attribute lagate hn or same line m css likhte hn
+
+we use style attribute in the opening tag of html element to write css in Inline css
+
+Syntax:
+
+<tagName style="property: value;"></tagName>
+
+Code 01:
+
+Internal CSS:
+
+internal css means html file k ander head section m style tag lagate hn or us k ander css likhte hn
+
+we use a style tag in html document to write css in internal css
+
+Syntax:
+
+<style></style>
+
+Code 01:
+
+External CSS:
+
+External css means html file k bahir 1 css ki file banani hai or us k ander coding krni hai or phir us file ko html file k sath link krdena hai.
+
+we create a css file and write css in it then we link this css file with html document in the head section in the External CSS
+
+Link Tag:
+
+link tag is used to connect css file with html document
+link tag is placed in the head section 
+link tag is a self-closing tag, it does not have a closing tag
+
+Syntax:
+
+<link rel="stylesheet" href="filename" />
+
+Short form to write link tag:
+
+link:css
+
+Code 01:
+
+Inline CSS:
+
+
+
+
