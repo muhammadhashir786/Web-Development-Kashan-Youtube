@@ -1,0 +1,5 @@
+CSS Properties:
+
+1. Border
+2. Margin
+3. Padding
